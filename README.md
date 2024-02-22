@@ -8,11 +8,11 @@ Features
     Provides options to differentiate between sound effects (SFX) and music files.
 
 How to Use
-
+    
     Ensure you have Python installed on your system.
     Install the required libraries by running:
 
-    bash
+bash
 
 pip install watchdog
 
